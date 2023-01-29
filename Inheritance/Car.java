@@ -1,4 +1,4 @@
-package Vehicle;
+package Inheritance;
 
 public class Car {
     
